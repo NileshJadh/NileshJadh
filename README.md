@@ -39,6 +39,6 @@
 ---
 
 ### 🔗 **Connect with Me**
-[![LinkedIn](www.linkedin.com/in/nilesh--jadhav)
+- [LinkedIn](https://www.linkedin.com/in/nilesh--jadhav/)
 
 
