@@ -7,7 +7,7 @@
 ### 🚀 **About Me**
 - 🌱 I’m currently improving my **Spring Boot** and **Microservices** skills.
 - 🔍 Looking to collaborate on **backend projects**.
-- 💬 Ask me about **Java, Spring Boot, React, MySQL, and PostgreSQL**.
+- 💬 Ask me about **Java, Spring Boot,MySQL, and PostgreSQL**.
 - 📫 Reach me at **nileshjadhav0822@gmail.com**.
 
 ---
@@ -21,7 +21,7 @@
 ---
 
 ### 💻 **Featured Projects**
-#### [Expenses Tracker](https://github.com/NileshJadh/expenses-tracker)
+#### [Expenses Tracker](https://github.com/NileshJadh/expense-tracker)
 - React-based app for tracking personal finances.
 - Backend powered by Spring Boot and MySQL.
 
