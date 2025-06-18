@@ -25,7 +25,7 @@
 - React-based app for tracking personal finances.
 - Backend powered by Spring Boot and MySQL.
 
-#### [Job Portal](https://github.com/NileshJadh/job-portal)
+#### [Job Portal](https://github.com/NileshJadh/job-application-management-management)
 - A web application for job listings and applicant management.
 - Implements Spring Security and JWT for secure access.
 
